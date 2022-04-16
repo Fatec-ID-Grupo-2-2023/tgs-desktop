@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TGS", "TGS\TGS.csproj", "{441F4B15-60F7-4F49-8B97-CEC6A7C3997C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Test", "Unit_Test\Unit_Test.csproj", "{5726CB1B-56C9-4773-A300-DF686BC1BA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441F4B15-60F7-4F49-8B97-CEC6A7C3997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441F4B15-60F7-4F49-8B97-CEC6A7C3997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441F4B15-60F7-4F49-8B97-CEC6A7C3997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441F4B15-60F7-4F49-8B97-CEC6A7C3997C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5726CB1B-56C9-4773-A300-DF686BC1BA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5726CB1B-56C9-4773-A300-DF686BC1BA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5726CB1B-56C9-4773-A300-DF686BC1BA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5726CB1B-56C9-4773-A300-DF686BC1BA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CC8F45-F60C-42E2-B9C6-CA9D179BCDD1}
+	EndGlobalSection
+EndGlobal
