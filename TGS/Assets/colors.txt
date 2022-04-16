@@ -1,0 +1,5 @@
+Buttons
+Default Color: 61, 130, 219
+Border Color: 61, 130, 219
+Hover Color: 44, 88, 145
+OnClick Color: 24, 74, 137
